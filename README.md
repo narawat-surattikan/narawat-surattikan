@@ -7,4 +7,6 @@
 
 
 welcome to my github account
-this is @sinnohsatoshi.1203 from laos pdr
+this is **@sinnohsatoshi.1203** from laos pdr
+
+visit my bio site for more details: https://www.narawat.tk
